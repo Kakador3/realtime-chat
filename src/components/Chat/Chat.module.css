@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.message__page {
+  width: 60%;
+  height: 70vh;
+  border: 1px solid gray;
+  overflow: auto;
+  margin-top: 20px;
+  border-radius: 15px;
+  background-image: url('https://kartinkin.net/uploads/posts/2021-07/1626160693_13-kartinkin-com-p-fon-dlya-chata-telegramm-krasivo-13.jpg');
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  word-wrap: break-word;
+}
+
+.message__window {
+  border-radius: 16px;
+  margin: 10px;
+  max-width: 320px;
+  width: fit-content;
+  padding: 5px;
+}
